@@ -2,4 +2,4 @@
 its a Bear.
 a Bear
 ...........................................
-..a Bear with no ears.
+..With no ears.
